@@ -1,0 +1,7 @@
+.stop-button{
+    border-radius: 4rem;
+    background-color: red;
+    color: white;
+    font-size: 2rem;
+    cursor: pointer;
+}

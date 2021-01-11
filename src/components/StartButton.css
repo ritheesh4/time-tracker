@@ -1,0 +1,7 @@
+.start-button{
+    border-radius: 4rem;
+    background-color: green;
+    color: white;
+    font-size: 2rem;
+    cursor: pointer;
+}
